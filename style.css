@@ -1,0 +1,41 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: arial;
+  font-size: 1.5rem;
+  line-height: 1.5px;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#main {
+  font-family: arial;
+}
+
+#title {
+  padding-top: 25px;
+  text-transform: uppercase;
+}
+
+#img-div {
+  position: relative;
+  background: gray;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  /*position: absolute;*/
+  padding-top: 5px;
+  color: white;
+  text-align: center
+}
